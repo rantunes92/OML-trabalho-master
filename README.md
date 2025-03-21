@@ -11,5 +11,9 @@ Módulo: Operacionalização de Machine Learning
   Para criar e activar o ambiente usei os seguintes comandos:
     conda env create -f conda.yaml
     conda activate OML-trabalho-master
+    
+4º Passo: Conectar o VS Code ao repositório de GitHub
+  Instalar a extensão "GitHub Pull Requests"
+  Logar na conta do GitHub na extensão
 
   4º Passo: Correr o rumos_bank_lending_predicyion.ipynb
